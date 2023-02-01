@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Instances
+# Reinforcement Learning Algorithms Reproduction
 This repository shows simple implementations of some RL/DRL/MARL algorithms.
 
 The list of algorithms:
