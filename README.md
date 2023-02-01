@@ -13,4 +13,5 @@ The list of algorithms:
 
 ## References
 Reinforcement Learning: An Introduction 2nd Edition
+
 Hands-on Reinforcement Learning
