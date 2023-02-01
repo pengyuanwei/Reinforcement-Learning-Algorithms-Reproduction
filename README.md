@@ -1,8 +1,13 @@
 # Reinforcement-Learning-Instances
-Those programs are based on Hands-on Reinforcement Learning and Reinforcement Learning: An Introduction 2nd Edition.
+This repository shows simple implementations of some RL/DRL/MARL algorithms.
 
-The envirnonments for dynamic programming algorithms:
+The list of algorithms:
 
-1, Cliff Walking
+1, Dynamics programming: policy iteration
+2, Dynamics programming: value iteration
+3, Policy gradient: REINFORCE
+4, Deep Q-network (DQN)
 
-2, Frozen Lake: this environment is from gym.
+## References
+Reinforcement Learning: An Introduction 2nd Edition
+Hands-on Reinforcement Learning
