@@ -11,6 +11,8 @@ The list of algorithms:
 
 4, Deep Q-network (DQN)
 
+5, Double DQN
+
 ## References
 Reinforcement Learning: An Introduction 2nd Edition
 
