@@ -13,6 +13,8 @@ The list of algorithms:
 
 5, Double DQN
 
+6, Dueling DQN
+
 ## References
 Reinforcement Learning: An Introduction 2nd Edition
 
